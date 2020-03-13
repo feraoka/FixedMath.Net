@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.26124.0
 MinimumVisualStudioVersion = 15.0.26124.0
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "src", "src\src.csproj", "{6EFFAECD-B280-4DDA-87A0-99CD3BFA9D23}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FixedMath", "src\FixedMath.csproj", "{6EFFAECD-B280-4DDA-87A0-99CD3BFA9D23}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "tests", "tests\tests.csproj", "{679BDEC4-00DC-47B2-9C10-BB8226A6456A}"
 EndProject
